@@ -12,7 +12,74 @@
         background-color: #D6EFD8;
         cursor: pointer;
       }
+    .card-title {
+     color: black;
+     font-weight: 500
+    }
     </style>
+<div style="background-color: #41B06E;" class="most-popular">
+
+    <div id="all-version" class="card-body">
+        <div class="row">
+        <div class="col-md-6 mt-1">
+    <div class="card download-bg suggestion">
+        <div class="card-body text-center">
+            <h5 class="card-title text-center w-100">Tải game cho Java</h5>
+            <p class="card-text">Nhấn vào đây để tải game cho điện thoại Java của bạn.</p>
+            <div class="d-flex justify-content-center">
+                <a href="https://kpah4.com/filebrowser/KPAH4_AutoLogin.jar" class="btn btn-success me-1 mt-1 py-1">Auto Login</a>
+                <a href="https://kpah4.com/filebrowser/KPAH4_MoHop_fix.jar" class="btn btn-success me-1 mt-1 py-1">Auto Mở Hộp</a>
+                <a href="https://kpah4.com/filebrowser/KPAH4_CheDo+TTL+Khoa21.jar" class="btn btn-success me-1 mt-1 py-1">Auto Làm Đồ</a>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="col-md-6 mt-1">
+    <div class="card download-bg suggestion">
+        <div class="card-body text-center">
+            <h5 class="card-title text-center w-100">Tải game cho Java</h5>
+            <p class="card-text">Nhấn vào đây để tải game cho điện thoại Java của bạn.</p>
+            <div class="d-flex justify-content-center">
+                <a href="https://kpah4.com/filebrowser/KPAH4_AutoLogin.jar" class="btn btn-success me-1 mt-1 py-1">Auto Login</a>
+                <a href="https://kpah4.com/filebrowser/KPAH4_MoHop_fix.jar" class="btn btn-success me-1 mt-1 py-1">Auto Mở Hộp</a>
+                <a href="https://kpah4.com/filebrowser/KPAH4_CheDo+TTL+Khoa21.jar" class="btn btn-success me-1 mt-1 py-1">Auto Làm Đồ</a>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="col-md-6 mt-1">
+    <div class="card download-bg suggestion">
+        <div class="card-body text-center">
+            <h5 class="card-title text-center w-100">Tải game cho Java</h5>
+            <p class="card-text">Nhấn vào đây để tải game cho điện thoại Java của bạn.</p>
+            <div class="d-flex justify-content-center">
+                <a href="https://kpah4.com/filebrowser/KPAH4_AutoLogin.jar" class="btn btn-success me-1 mt-1 py-1">Auto Login</a>
+                <a href="https://kpah4.com/filebrowser/KPAH4_MoHop_fix.jar" class="btn btn-success me-1 mt-1 py-1">Auto Mở Hộp</a>
+                <a href="https://kpah4.com/filebrowser/KPAH4_CheDo+TTL+Khoa21.jar" class="btn btn-success me-1 mt-1 py-1">Auto Làm Đồ</a>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="col-md-6 mt-1">
+    <div class="card download-bg suggestion">
+        <div class="card-body text-center">
+            <h5 class="card-title text-center w-100">Tải game cho Java</h5>
+            <p class="card-text">Nhấn vào đây để tải game cho điện thoại Java của bạn.</p>
+            <div class="d-flex justify-content-center">
+                <a href="https://kpah4.com/filebrowser/KPAH4_AutoLogin.jar" class="btn btn-success me-1 mt-1 py-1">Auto Login</a>
+                <a href="https://kpah4.com/filebrowser/KPAH4_MoHop_fix.jar" class="btn btn-success me-1 mt-1 py-1">Auto Mở Hộp</a>
+                <a href="https://kpah4.com/filebrowser/KPAH4_CheDo+TTL+Khoa21.jar" class="btn btn-success me-1 mt-1 py-1">Auto Làm Đồ</a>
+            </div>
+        </div>
+    </div>
+</div>
+
+        </div>
+        
+    </div>
+</div>
 <div style="background-color: #41B06E;" class="most-popular">
             <div class="row">
               <div class="col-lg-12">
@@ -120,6 +187,114 @@
               
             </div>
              </div>
+            <!-- <div class="row">
+              <div class="col-lg-12">
+                <div class="heading-section">
+                  <h4 style="color: black"><em>Box Chat</em> Tất Cả Của Ae Cần</h4>
+                </div>
+                <div class="row">
+               
+                  <div class="col-lg-3 col-sm-6">
+                      <a href="https://www.tiktok.com/@kpah.new?_t=8nyn04ohYue&_r=1">
+                    <div class="item">
+                      <img style="width: 30%" src="assets/images/6ndKi1k.png" alt="">
+                      <h4>Trang tiktok<br><span>Nhấp vào đây</span></h4>
+                      <ul>
+                        <li><i class="fa fa-star"></i> 4.8</li>
+                        <li><i class="fa fa-download"></i> 2.3M</li>
+                      </ul>
+                    </div>
+                    </a>
+                  </div>
+                  <div class="col-lg-3 col-sm-6">
+                      <a href="https://www.facebook.com/profile.php?id=61561992646219">
+                    <div class="item">
+                      <img style="width: 30%" src="assets/images/6ndKi1k.png" alt="">
+                      <h4>Trang Facebook<br><span>Nhấp vào đây</span></h4>
+                      <ul>
+                        <li><i class="fa fa-star"></i> 4.8</li>
+                        <li><i class="fa fa-download"></i> 2.3M</li>
+                      </ul>
+                    </div>
+                    </a>
+                  </div>
+                    <div class="col-lg-3 col-sm-6">
+                      <a href="https://www.facebook.com/groups/1224610825646352">
+                    <div class="item">
+                      <img style="width: 30%" src="assets/images/6ndKi1k.png" alt="">
+                      <h4>Group Facebook<br><span>Nhấp vào đây</span></h4>
+                      <ul>
+                        <li><i class="fa fa-star"></i> 4.8</li>
+                        <li><i class="fa fa-download"></i> 2.3M</li>
+                      </ul>
+                    </div>
+                    </a>
+                  </div>
+                  <div class="col-lg-3 col-sm-6">
+                                            <a href="">
+                    <div class="item">
+                      <img style="width: 30%" src="assets/images/6ndKi1k.png" alt="">
+                      <h4>Trang Youtube<br><span>Nhấp vào đây</span></h4>
+                      <ul>
+                        <li><i class="fa fa-star"></i> 4.8</li>
+                        <li><i class="fa fa-download"></i> 2.3M</li>
+                      </ul>
+                    </div>
+                    </a>
+                  </div>
+                  <div class="col-lg-3 col-sm-6">
+                                            <a href="https://zalo.me/g/dlgody498">
+
+                    <div class="item">
+                      <img style="width: 30%" src="assets/images/6ndKi1k.png" alt="">
+                      <h4>Box Zalo 1<br><span>Nhấp vào đây</span></h4>
+                      <ul>
+                        <li><i class="fa fa-star"></i> 4.8</li>
+                        <li><i class="fa fa-download"></i> 2.3M</li>
+                      </ul>
+                    </div>
+                    </a>
+                  </div>
+                  <div class="col-lg-3 col-sm-6">
+                                            <a href="https://zalo.me/g/bauxzl120">
+                    <div class="item">
+                      <img style="width: 30%" src="assets/images/6ndKi1k.png" alt="">
+                      <h4>Box Zalo 2<br><span>Nhấp vào đây</span></h4>
+                      <ul>
+                        <li><i class="fa fa-star"></i> 4.8</li>
+                        <li><i class="fa fa-download"></i> 2.3M</li>
+                      </ul>
+                    </div>
+                    </a>
+                  </div>
+              <div class="col-lg-3 col-sm-6">
+                                            <a href="https://zalo.me/g/uukkka140">
+                    <div class="item">
+                      <img style="width: 30%" src="assets/images/6ndKi1k.png" alt="">
+                      <h4>Box Zalo 3<br><span>Nhấp vào đây</span></h4>
+                      <ul>
+                        <li><i class="fa fa-star"></i> 4.8</li>
+                        <li><i class="fa fa-download"></i> 2.3M</li>
+                      </ul>
+                    </div>
+                    </a>
+                  </div>
+
+                  <div class="col-lg-12">
+                    <div class="main-button">
+                      <a style="background-color: #939185"  href="{{ route('register') }}">Đăng Ký Ngay</a>
+                    </div>
+                    
+                  </div>
+                  
+                </div> -->
+                
+              </div>
+              
+            </div>
+            
+             </div>
+             
              </div>
                   </div>
                   </div>

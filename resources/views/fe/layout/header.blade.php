@@ -4,7 +4,7 @@
         <div class="row">
             <div class="col-12">
                 <nav class="main-nav">
-                    <a style="width: 20%;" href="{{ route('home') }}" class="">
+                    <a style="width: 120px;" href="{{ route('home') }}" class="">
                         <img src="{{ asset('assets/images/kpahnew.png') }}" alt="">
                     </a>
                     @if(auth()->check())

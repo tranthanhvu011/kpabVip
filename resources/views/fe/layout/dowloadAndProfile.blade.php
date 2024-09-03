@@ -2,14 +2,13 @@
 <br>
 <br>
 <br>
-<br>
   <div class="container">
     <div class="row">
       <div class="col-lg-12">
         <div class="header-text">
           <h4 style="color:transparent">Cực Hay</h4>
           <div class="text-center">
-            <img style="width: 30%;" src="{{ asset('assets/images/4306971-03.png') }}" alt="">
+            <a href="groupzalo"><img style="width: 250px;" src="{{ asset('assets/images/4306971-03.png') }}" alt=""></a>
           </div>
           <div class="main-button1 text-center">
             <a href="{{ asset('download/KPAHNEW_NHD4.apk') }}"><img src="{{ asset('assets/images/DL_APK.png') }}" alt=""></a>
